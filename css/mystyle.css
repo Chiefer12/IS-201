@@ -1,0 +1,32 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+    color: rgb(48, 71, 121);
+    background-color: rgb(134, 182, 209);
+}
+li { 
+     color: rgb(29, 11, 26);
+     font-style: italic;
+     font-weight: normal;
+}
+ul {
+    color: rgb(139, 139, 101);
+    font-style: italic;
+}
+a {
+    color: rgb(7, 90,120);
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    font-size: large;
+}
+a:visited {
+    color: rgb(157, 54, 189);
+}
+.underline {text-decoration: underline;}
+.justify {text-align: justify;}
+.bold {font-weight: bold;}
+.center {text-align: center;}
+.right {text-align: right;}
+.rod {color: darkgoldenrod;}
